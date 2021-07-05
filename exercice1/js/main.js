@@ -1,1 +1,1 @@
-$(square).css('background', 'red');
+$("#square").css('background', 'red');
